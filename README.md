@@ -9,7 +9,7 @@
 - Good Layout, UI, and Designs are essential. 
 
 ### Hosted Link
-[Link]
+[Link](https://git-repo-six.vercel.app/)
 
 
 ### Landing Page
