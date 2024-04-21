@@ -26,7 +26,7 @@ const ErrorPage = () => {
           <span className='text-8xl md:text-9xl'>4</span>
         </p>
         <p className='flex flex-col gap-y-4 items-center text-center gap-x-2 mt-4'>
-          <span className='text-xl'>You're tresspassing</span>{" "}
+          <span className='text-xl'>You Don enter Wrong Place!</span>{" "}
           <Link
             to='/'
             className='hover:bg-blue text-lg block w-36 rounded-full shadow-xl hover:shadow-blue   py-1 bg-zinc-700 text-neutral-50 duration-300 transition-colors'
